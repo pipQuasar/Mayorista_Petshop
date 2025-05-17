@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Qs8rWXmbw6myIy3Pqrhe" name="Página-1">
-        <mxGraphModel dx="1424" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+        <mxGraphModel dx="3380" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -83,7 +83,7 @@
                         <mxPoint x="-42.5" y="554.9999999999998" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="144" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" parent="1" source="14" edge="1">
+                <mxCell id="144" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" parent="1" source="14" target="158" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="50" y="620"/>
@@ -115,15 +115,6 @@
                         </Array>
                         <mxPoint x="10" y="484.9999999999998" as="sourcePoint"/>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="45" style="edgeStyle=none;shape=connector;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="85" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-515" y="250" as="targetPoint"/>
-                        <mxPoint x="-137.5" y="554.9999999999998" as="sourcePoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="85" value="&lt;i style=&quot;font-size: 11px;&quot;&gt;&lt;u&gt;Los puntos se pueden canjear por dinero para comprar más productos&lt;/u&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-330" y="525" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="87" value="&lt;i style=&quot;font-size: 11px;&quot;&gt;&lt;u&gt;Aplicar descuento dependiendo el tipo de suscripción y aplicando el dinero de los canjes si los hay&lt;/u&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-150" y="665" width="120" height="80" as="geometry"/>
@@ -214,7 +205,7 @@
                 <mxCell id="136" value="Salir" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;container=0;" parent="1" vertex="1">
                     <mxGeometry x="850" y="485" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="180" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="148" target="113">
+                <mxCell id="180" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" parent="1" source="148" target="113" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="148" value="&lt;i&gt;&lt;u&gt;Guardar datos en archivo .csv&lt;/u&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;u&gt;en caso de modificacion o&amp;nbsp;&lt;/u&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;u&gt;nueva cuenta&lt;/u&gt;&lt;/i&gt;.&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -343,10 +334,10 @@
                     <mxGeometry x="10" y="690" width="90" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="158" value="Consultar stock, precios y promos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-                    <mxGeometry x="-150" y="600" width="110" height="40" as="geometry"/>
+                    <mxGeometry x="-150" y="610" width="110" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="159" value="Canjear puntos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-                    <mxGeometry x="-150" y="540" width="120" height="30" as="geometry"/>
+                    <mxGeometry x="-170" y="540" width="120" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="160" value="Salir" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
                     <mxGeometry x="-40" y="485" width="80" height="30" as="geometry"/>
