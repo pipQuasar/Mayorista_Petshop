@@ -1,4 +1,4 @@
-🐾 ¡Descubre PetShop Mayorista! Este proyecto, desarrollado con la robustez de Python y la simplicidad de archivos CSV, es una prueba tangible de mis conocimientos y una práctica en la creación de proyectos propios.
+🐾 ¡Descubre PetShop Mayorista! Este prototipo, desarrollado con la robustez de Python y la simplicidad de archivos CSV, es una prueba tangible de mis conocimientos y una práctica en la creación de proyectos propios.
 
 🌱 Como entusiasta estudiante de programación, me dediqué a construir este algoritmo desde cero, implementando estructuras de control, módulos para una organización clara del código y la manipulación de datos a través de archivos CSV. Este enfoque práctico me permitirá comprender los fundamentos del desarrollo de software.
 
